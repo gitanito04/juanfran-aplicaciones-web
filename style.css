@@ -1,0 +1,35 @@
+h1.cripto{
+    background-color: lightcoral;
+    text-align: center;
+    font-weight: bold;
+}
+
+p.bitcoin {
+    text-align: end ;
+    background-color: lightcoral;
+    color: blue;
+    font-weight: bold;
+}
+
+p.etherum{
+    text-align: end;
+    color: blue;
+    font-weight: bold;
+}
+
+p.litecoin{
+    text-align: left;
+    background-color: lightcoral;
+    color: blue;
+    font-weight: bold;
+}
+
+p.t{
+    text-align: center;
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+}
+span.s{
+    color: red;
+}
