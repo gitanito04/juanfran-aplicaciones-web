@@ -1,12 +1,13 @@
-h1.cripto{
+body{
     background-color: lightcoral;
+}
+h1.cripto{
     text-align: center;
     font-weight: bold;
 }
 
 p.bitcoin {
     text-align: end ;
-    background-color: lightcoral;
     color: blue;
     font-weight: bold;
 }
@@ -15,11 +16,11 @@ p.etherum{
     text-align: end;
     color: blue;
     font-weight: bold;
+    background-color: white;
 }
 
 p.litecoin{
     text-align: left;
-    background-color: lightcoral;
     color: blue;
     font-weight: bold;
 }

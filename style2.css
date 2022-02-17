@@ -1,14 +1,13 @@
-h1.ren{
+body{
     background-color: lightcoral;
+}
+h1.ren{
     text-align: center;
 }
 p.r{
     background-color: yellow;
     color: black;
     text-align: center;
-}
-p.b{
-    background-color: lightcoral;
 }
 span.x{
     color: red;
